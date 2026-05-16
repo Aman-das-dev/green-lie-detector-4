@@ -1,4 +1,6 @@
 Green Lie Detector
+
+
 A web application that analyzes sustainability claims to determine if they are "structurally honest" or "green lies" that unfairly shift responsibility without providing the necessary power to act.
 
 🌍 Overview
@@ -25,12 +27,6 @@ Forms: React Hook Form with Zod validation
 Charts: Recharts
 Icons: Lucide React
 Package Manager: pnpm
-🚀 Installation
-Clone the repository
-
-git clone https://github.com/your-username/green-lie-detector.git
-cd green-lie-detector
-Install dependencies
 
 pnpm install
 Run the development server
