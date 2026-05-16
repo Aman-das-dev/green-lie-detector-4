@@ -1,0 +1,528 @@
+{
+  "sustainability_statements": [
+    {
+      "id": "statement_1",
+      "statement": "Youth should avoid single-use plastics to save the planet",
+      "target_group": "Youth",
+      "source_type": "Campaign",
+      "action": "avoid single-use plastics",
+      "criteria_assessment": {
+        "decision_authority": {
+          "status": "not_available",
+          "explanation": "Youth often don't have full control over household purchases or cafeteria supplies. Parents, schools, and institutions make many purchasing decisions that determine plastic availability.",
+          "examples": {
+            "positive": [
+              "A teenager choosing a reusable water bottle for personal use",
+              "College students requesting their campus cafeteria to offer alternatives"
+            ],
+            "negative": [
+              "A 10-year-old cannot decide what packaging their school lunch comes in",
+              "Teenagers cannot control what products their parents buy at the grocery store",
+              "Students have no say in whether their school cafeteria uses disposable plates"
+            ]
+          }
+        },
+        "access_to_alternatives": {
+          "status": "partially_available",
+          "explanation": "Reusable alternatives exist but aren't always accessible to youth. Availability varies by location, store proximity, and what adults provide.",
+          "examples": {
+            "positive": [
+              "Reusable water bottles, lunch containers, and shopping bags are widely available",
+              "Many stores now offer package-free options in urban areas"
+            ],
+            "negative": [
+              "Rural areas may have limited access to stores selling alternatives",
+              "School vending machines and cafeterias primarily offer single-use packaging",
+              "Fast food restaurants (popular with youth) predominantly use disposable containers"
+            ]
+          }
+        },
+        "affordability": {
+          "status": "not_available",
+          "explanation": "Youth typically have limited or no independent income. They rely on parents/guardians for purchasing power, making affordability a significant barrier.",
+          "examples": {
+            "positive": ["Basic reusable water bottles can be affordable long-term investments"],
+            "negative": [
+              "Quality reusable containers cost $15-50, which may be unaffordable for youth without allowances",
+              "Youth cannot afford to choose premium package-free products over cheaper plastic-wrapped options",
+              "Students from low-income families may rely on free school lunches with disposable packaging"
+            ]
+          }
+        },
+        "infrastructure_availability": {
+          "status": "not_available",
+          "explanation": "Infrastructure to support plastic-free living is limited. Schools, public spaces, and communities often lack necessary facilities.",
+          "examples": {
+            "positive": [
+              "Some schools have installed water refill stations",
+              "Certain cities have bulk stores where containers can be refilled"
+            ],
+            "negative": [
+              "Most schools don't have dishwashing facilities for reusable containers",
+              "Public water fountains are limited or poorly maintained in many areas",
+              "Recycling bins are often absent or contaminated, making proper disposal difficult",
+              "Most restaurants and cafeterias don't accept customer-provided reusable containers"
+            ]
+          }
+        },
+        "enforcement_power": {
+          "status": "not_available",
+          "explanation": "Youth have no legal or institutional power to enforce plastic reduction. They cannot mandate changes in schools, businesses, or government policy.",
+          "examples": {
+            "positive": [
+              "Youth can advocate and raise awareness through climate movements",
+              "Student councils can petition for changes in school policies"
+            ],
+            "negative": [
+              "Youth cannot ban plastic bags in their city",
+              "Students cannot force their school to switch to compostable utensils",
+              "Teenagers cannot regulate what packaging manufacturers use",
+              "Minors cannot vote for politicians who support plastic reduction policies"
+            ]
+          }
+        }
+      },
+      "verdict": "GREEN LIE",
+      "reasoning": "While avoiding single-use plastics is environmentally beneficial, placing this responsibility primarily on youth is misleading. Youth lack decision authority (purchases made by adults), affordability (limited income), infrastructure (schools/public spaces don't support it), and enforcement power (cannot change policies). This statement shifts responsibility from corporations and policymakers to individuals with the least power to create systemic change.",
+      "actionable_suggestions": [
+        "Install water refill stations in all schools and public buildings by 2026",
+        "Mandate reusable container programs in school cafeterias",
+        "Provide free reusable containers to students from low-income families",
+        "Ban single-use plastics in school cafeterias and vending machines",
+        "Create youth advisory boards with real decision-making power on campus sustainability"
+      ]
+    },
+    {
+      "id": "statement_2",
+      "statement": "Employees must reduce their carbon footprint by using public transport",
+      "target_group": "Employees",
+      "source_type": "Corporate",
+      "action": "use public transport",
+      "criteria_assessment": {
+        "decision_authority": {
+          "status": "partially_available",
+          "explanation": "Employees can choose their commute method, but this choice is often constrained by work location decisions made by employers, work hours, and family responsibilities.",
+          "examples": {
+            "positive": [
+              "Employees in cities with good transit can choose to take the bus or train",
+              "Workers with flexible hours can adjust schedules to match transit availability"
+            ],
+            "negative": [
+              "Employees don't choose where their office is located",
+              "Workers with childcare pickup/dropoff responsibilities need cars for flexibility",
+              "Night shift workers often have no say in their schedule and transit doesn't run",
+              "Employees cannot demand their company relocate near transit hubs"
+            ]
+          }
+        },
+        "access_to_alternatives": {
+          "status": "not_available",
+          "explanation": "Public transport infrastructure is severely lacking in many areas, making it not a viable alternative for most employees.",
+          "examples": {
+            "positive": [
+              "Major cities like New York, London, Tokyo have extensive public transit networks",
+              "Some employers offer shuttle services supplementing public transit"
+            ],
+            "negative": [
+              "Suburban and rural areas often have no public transport",
+              "Many US cities have minimal or no bus/train routes to industrial/business parks",
+              "Routes often don't connect residential areas to workplaces efficiently",
+              "Small towns and villages typically lack any public transportation infrastructure"
+            ]
+          }
+        },
+        "affordability": {
+          "status": "partially_available",
+          "explanation": "Public transport can be cheaper than car ownership, but this varies greatly by location and may still be unaffordable for low-wage workers.",
+          "examples": {
+            "positive": [
+              "Monthly transit passes ($50-150) are cheaper than car payments, insurance, and gas",
+              "Some employers subsidize transit passes"
+            ],
+            "negative": [
+              "In areas with poor transit, employees must still own cars AND pay transit fares",
+              "Low-wage workers may not afford upfront monthly pass costs",
+              "Unreliable transit can cause job loss, making it economically risky",
+              "Multiple transfers increase costs and time, making it unaffordable time-wise for hourly workers"
+            ]
+          }
+        },
+        "infrastructure_availability": {
+          "status": "not_available",
+          "explanation": "Most regions lack adequate public transportation infrastructure, making this requirement impossible to fulfill for the majority of employees.",
+          "examples": {
+            "positive": [
+              "Dense urban cores in major cities have subway, bus, and tram networks",
+              "Some European and Asian cities have excellent integrated transit systems"
+            ],
+            "negative": [
+              "72% of American workers have no access to public transportation for their commute",
+              "Routes often don't operate during early morning/late night shifts",
+              "Infrequent service (buses every 1-2 hours) makes commutes 3x longer",
+              "Last-mile connectivity is missing - no way to get from transit stop to workplace",
+              "No bike lanes or safe pedestrian infrastructure to complement transit"
+            ]
+          }
+        },
+        "enforcement_power": {
+          "status": "not_available",
+          "explanation": "Employees have no power to create public transit infrastructure or change employer location decisions. They cannot enforce transit development.",
+          "examples": {
+            "positive": [
+              "Employees can petition for employer-provided shuttles",
+              "Unions can negotiate for transit benefits"
+            ],
+            "negative": [
+              "Employees cannot build new bus or train lines",
+              "Workers cannot force their employer to relocate near transit",
+              "Individuals cannot change city zoning laws to support transit-oriented development",
+              "Employees cannot vote to increase public transit funding if they live outside city limits where they work"
+            ]
+          }
+        }
+      },
+      "verdict": "GREEN LIE",
+      "reasoning": "This statement places a 'must' obligation on employees who largely lack the infrastructure, access, and authority to comply. Most employees don't have access to viable public transport, cannot afford the time cost even if it exists, and have no power to create the necessary infrastructure. The responsibility should be on governments to build transit systems and employers to locate offices near transit or provide alternatives.",
+      "actionable_suggestions": [
+        "Employers should relocate offices to areas with public transit access",
+        "Companies should provide free shuttle services from transit hubs",
+        "Governments should invest in expanding public transit to business districts",
+        "Employers should offer remote work options to reduce commuting needs",
+        "Subsidize monthly transit passes for all employees at 100%"
+      ]
+    },
+    {
+      "id": "statement_3",
+      "statement": "Consumers need to stop buying fast fashion to reduce textile waste",
+      "target_group": "Consumers",
+      "source_type": "Campaign",
+      "action": "stop buying fast fashion",
+      "criteria_assessment": {
+        "decision_authority": {
+          "status": "available",
+          "explanation": "Consumers generally have the authority to decide what clothing they purchase, though this is influenced by marketing, trends, and social pressure.",
+          "examples": {
+            "positive": [
+              "Shoppers can choose to buy secondhand or from sustainable brands",
+              "Consumers can decide to repair clothes instead of replacing them"
+            ],
+            "negative": [
+              "Fashion industry marketing heavily influences purchasing decisions",
+              "Social pressure and workplace dress codes may require regular wardrobe updates",
+              "Parents may have limited control when teens demand trendy fast fashion items"
+            ]
+          }
+        },
+        "access_to_alternatives": {
+          "status": "partially_available",
+          "explanation": "Alternatives exist but vary significantly by location and size availability. Sustainable fashion and secondhand options aren't accessible to everyone.",
+          "examples": {
+            "positive": [
+              "Thrift stores and online secondhand platforms (ThredUp, Poshmark, Vinted) are growing",
+              "Sustainable fashion brands are increasingly available online",
+              "Clothing swaps and rental services exist in some communities"
+            ],
+            "negative": [
+              "Thrift stores in small towns have limited selection and sizing",
+              "Sustainable brands rarely carry plus sizes or petite sizes",
+              "Rural areas may have no thrift stores within reasonable distance",
+              "Secondhand professional attire is difficult to find in specific sizes",
+              "Maternity clothes and children's clothes (needed quickly due to growth) are hard to find used"
+            ]
+          }
+        },
+        "affordability": {
+          "status": "not_available",
+          "explanation": "Sustainable and ethical fashion is significantly more expensive than fast fashion, making it unaffordable for low-income consumers who are the primary fast fashion customers.",
+          "examples": {
+            "positive": [
+              "Secondhand clothing is often cheaper than new fast fashion",
+              "Quality pieces last longer, potentially saving money long-term"
+            ],
+            "negative": [
+              "A sustainable t-shirt costs $40-80 vs. $5-15 at fast fashion stores",
+              "Low-income families need to clothe multiple children affordably",
+              "People experiencing rapid body changes (pregnancy, weight fluctuation) cannot invest in expensive clothes",
+              "Job seekers need interview outfits quickly and cheaply",
+              "Minimum wage workers cannot afford a $200 sustainable jacket when a $30 one is available"
+            ]
+          }
+        },
+        "infrastructure_availability": {
+          "status": "partially_available",
+          "explanation": "Infrastructure for clothing repair, recycling, and sustainable fashion exists but is limited and unevenly distributed.",
+          "examples": {
+            "positive": [
+              "Some brands offer repair services and take-back programs",
+              "Textile recycling bins are appearing in some cities",
+              "Online platforms make sustainable shopping more accessible"
+            ],
+            "negative": [
+              "Most communities lack textile recycling facilities that actually recycle (most export to developing countries)",
+              "Tailoring and repair services are expensive and scarce in many areas",
+              "No widespread infrastructure for clothing rental or sharing",
+              "Fast fashion stores are ubiquitous while sustainable stores are rare",
+              "Return and recycling programs are often greenwashing with minimal actual impact"
+            ]
+          }
+        },
+        "enforcement_power": {
+          "status": "not_available",
+          "explanation": "Individual consumers cannot regulate the fashion industry or enforce sustainable practices. They have no power to change production systems.",
+          "examples": {
+            "positive": [
+              "Collective boycotts can pressure brands to change practices",
+              "Consumer advocacy groups can lobby for regulation"
+            ],
+            "negative": [
+              "Consumers cannot force brands to use sustainable materials",
+              "Individuals cannot regulate overseas production facilities",
+              "Shoppers cannot mandate extended producer responsibility laws",
+              "Consumers cannot stop brands from producing 52 'micro-seasons' per year",
+              "Individuals cannot enforce labor rights in garment factories"
+            ]
+          }
+        }
+      },
+      "verdict": "GREEN LIE",
+      "reasoning": "While consumers do have purchasing authority, the statement ignores that fast fashion exists because sustainable alternatives are unaffordable and inaccessible to most people. Low-income consumers—who rely on fast fashion by necessity—cannot enforce industry change. The real issue is that fashion brands produce wasteful, low-quality clothing because it's profitable. Without regulation and affordable sustainable alternatives, demanding consumers 'stop' is unrealistic and shifts blame from corporations to individuals with limited economic power.",
+      "actionable_suggestions": [
+        "Regulate fashion brands to use sustainable materials and ethical labor",
+        "Implement extended producer responsibility laws for textile waste",
+        "Subsidize sustainable fashion options for low-income consumers",
+        "Ban planned obsolescence in clothing manufacturing",
+        "Create community clothing libraries and repair cafes in every neighborhood"
+      ]
+    },
+    {
+      "id": "statement_4",
+      "statement": "Students must turn off lights when leaving classrooms to conserve energy",
+      "target_group": "Students",
+      "source_type": "Educational",
+      "action": "turn off lights when leaving classrooms",
+      "criteria_assessment": {
+        "decision_authority": {
+          "status": "partially_available",
+          "explanation": "Students have some ability to turn off lights but often lack authority in classroom settings where teachers or facilities staff control lighting.",
+          "examples": {
+            "positive": [
+              "Students can turn off lights in empty classrooms during breaks",
+              "Student council members can implement awareness campaigns"
+            ],
+            "negative": [
+              "Teachers often prefer lights on for safety and visibility between classes",
+              "Many classrooms have automatic lighting systems students cannot control",
+              "School policies may prohibit students from operating light switches",
+              "Students leaving class don't know if another class is coming next period",
+              "Custodial staff may turn lights back on for cleaning schedules"
+            ]
+          }
+        },
+        "access_to_alternatives": {
+          "status": "not_available",
+          "explanation": "Students cannot install or access alternative energy solutions. They must use existing infrastructure controlled by the school administration.",
+          "examples": {
+            "positive": ["Natural lighting can be used during daytime in some classrooms"],
+            "negative": [
+              "Students cannot install motion-sensor lights or LED bulbs",
+              "Many classrooms lack windows or adequate natural light",
+              "Students cannot access renewable energy sources for the school",
+              "Alternative lighting technologies are administrative decisions, not student choices"
+            ]
+          }
+        },
+        "affordability": {
+          "status": "available",
+          "explanation": "Turning off lights has no direct cost to students. However, the actual energy savings are minimal compared to institutional energy use.",
+          "examples": {
+            "positive": [
+              "No financial burden on students to flip a switch",
+              "Creates awareness about energy conservation"
+            ],
+            "negative": [
+              "Classroom lighting represents only 2-3% of school energy use (HVAC is 50-60%)",
+              "Time lost reminding students to turn off lights has opportunity cost",
+              "The impact is so small it's essentially symbolic rather than meaningful"
+            ]
+          }
+        },
+        "infrastructure_availability": {
+          "status": "not_available",
+          "explanation": "Schools lack the infrastructure to make student light-switching meaningful. Most energy waste comes from systems students cannot control.",
+          "examples": {
+            "positive": [
+              "Light switches exist and are physically accessible",
+              "Some modern schools have installed occupancy sensors"
+            ],
+            "negative": [
+              "Many schools have centralized lighting systems students cannot control",
+              "Schools lack smart building management systems to optimize energy use",
+              "No infrastructure exists to show students the impact of their actions",
+              "HVAC systems run continuously regardless of occupancy (50-60% of energy use)",
+              "Aging school buildings have poor insulation, wasting far more energy than lights",
+              "Computers, projectors, and equipment left on use more energy than lights"
+            ]
+          }
+        },
+        "enforcement_power": {
+          "status": "not_available",
+          "explanation": "Students have no authority to enforce energy conservation policies or make institutional changes to school energy systems.",
+          "examples": {
+            "positive": [
+              "Students can advocate for energy-efficient upgrades",
+              "Environmental clubs can raise awareness"
+            ],
+            "negative": [
+              "Students cannot mandate motion-sensor lights or LED retrofits",
+              "They cannot change HVAC schedules or upgrade insulation",
+              "Students cannot enforce energy audits or efficiency standards",
+              "They have no power to install solar panels or renewable energy",
+              "Students cannot redirect school budgets toward energy-efficient infrastructure",
+              "Minors cannot vote on school board decisions about building upgrades"
+            ]
+          }
+        }
+      },
+      "verdict": "PARTIALLY VALID BUT MISLEADING",
+      "reasoning": "This statement is somewhat valid because students CAN physically turn off lights and it costs them nothing. However, it's misleading because: (1) classroom lighting is only 2-3% of school energy use—HVAC, which students cannot control, is 50-60%; (2) students often lack authority to control lighting due to school policies and automated systems; (3) meaningful energy conservation requires infrastructure upgrades that students cannot enforce. The statement places symbolic responsibility on students while ignoring that schools and administrators have vastly more power to reduce energy consumption through building improvements and system upgrades. It's a green lie because it focuses on minor individual actions instead of addressing the major institutional sources of energy waste.",
+      "actionable_suggestions": [
+        "Install motion-sensor lighting in all classrooms by 2026",
+        "Upgrade HVAC systems to smart energy management (50-60% of energy use)",
+        "Install solar panels on school rooftops to generate renewable energy",
+        "Create student energy councils with real decision-making power on efficiency projects",
+        "Display real-time energy dashboards showing actual impact of conservation efforts"
+      ]
+    },
+    {
+      "id": "statement_5",
+      "statement": "City governments must implement bike-sharing programs with dedicated lanes citywide",
+      "target_group": "City Governments",
+      "source_type": "Policy",
+      "action": "implement bike-sharing programs with dedicated lanes",
+      "criteria_assessment": {
+        "decision_authority": {
+          "status": "available",
+          "explanation": "City governments have the legal and administrative authority to plan, fund, and implement transportation infrastructure including bike-sharing programs and dedicated bike lanes.",
+          "examples": {
+            "positive": [
+              "City councils can pass ordinances requiring bike lane construction",
+              "Transportation departments can allocate budgets to bike-sharing programs",
+              "Mayors can direct urban planning departments to prioritize cycling infrastructure",
+              "Cities can partner with private bike-share operators through contracts"
+            ],
+            "negative": [
+              "State or federal regulations may limit some local decisions",
+              "Political opposition may slow implementation"
+            ]
+          }
+        },
+        "access_to_alternatives": {
+          "status": "available",
+          "explanation": "Multiple proven bike-sharing and cycling infrastructure models exist worldwide that cities can adopt and adapt to local conditions.",
+          "examples": {
+            "positive": [
+              "Successful programs in Paris (Vélib'), Amsterdam, Copenhagen provide proven models",
+              "Multiple private and public bike-share operators are available for partnerships",
+              "Various bike lane designs (protected, painted, shared) can be chosen based on context",
+              "Electric bike options expand accessibility to more residents"
+            ],
+            "negative": ["Not all models work equally well in every climate or terrain"]
+          }
+        },
+        "affordability": {
+          "status": "available",
+          "explanation": "City governments have taxation authority, federal grants, and budget allocation powers to fund cycling infrastructure. Bike lanes are far cheaper than car infrastructure.",
+          "examples": {
+            "positive": [
+              "Federal transportation grants often prioritize sustainable mobility projects",
+              "Bike lanes cost $5,000-50,000 per mile vs. $1-6 million per mile for roads",
+              "Public-private partnerships can fund bike-sharing with minimal city investment",
+              "Health care savings from increased cycling offset infrastructure costs",
+              "Property values typically increase near cycling infrastructure"
+            ],
+            "negative": ["Initial capital investment required may compete with other priorities"]
+          }
+        },
+        "infrastructure_availability": {
+          "status": "available",
+          "explanation": "Cities own and control streets, rights-of-way, and can reallocate road space. The infrastructure capability exists—it's a matter of political will.",
+          "examples": {
+            "positive": [
+              "Existing roads can be converted to include protected bike lanes",
+              "Cities control zoning and can require bike parking in new developments",
+              "Traffic signals can be reprogrammed for cyclist priority",
+              "Maintenance equipment for bike lanes is readily available",
+              "GPS and app technology for bike-sharing is mature and affordable"
+            ],
+            "negative": ["Very old city centers may have space constraints"]
+          }
+        },
+        "enforcement_power": {
+          "status": "available",
+          "explanation": "City governments have enforcement mechanisms through traffic laws, parking regulations, and police authority to protect cycling infrastructure.",
+          "examples": {
+            "positive": [
+              "Traffic enforcement can ticket vehicles blocking bike lanes",
+              "Cities can install physical barriers (bollards, planters) to protect cyclists",
+              "Parking enforcement ensures bike-share stations remain accessible",
+              "Building codes can mandate bike parking in new construction",
+              "Traffic cameras can monitor and enforce bike lane compliance"
+            ],
+            "negative": ["Enforcement requires ongoing budget allocation"]
+          }
+        }
+      },
+      "verdict": "STRUCTURALLY HONEST",
+      "reasoning": "This statement is structurally honest because it targets an entity (city governments) that possesses all five conditions: decision authority (legal power to implement), access to alternatives (proven models exist), affordability (funding mechanisms available), infrastructure (cities control roads), and enforcement power (traffic laws and regulations). When sustainability statements target institutions with actual power to implement change, they create genuine accountability rather than shifting blame to powerless individuals.",
+      "actionable_suggestions": [
+        "Conduct citywide cycling infrastructure audit within 6 months",
+        "Allocate 10% of transportation budget to cycling infrastructure",
+        "Partner with proven bike-share operators by Q2 2026",
+        "Install 50 miles of protected bike lanes in first phase",
+        "Create citizen advisory board to guide implementation priorities"
+      ]
+    }
+  ],
+  "evaluation_framework": {
+    "description": "Framework for evaluating whether a sustainability statement is a 'green lie' by assessing five key criteria",
+    "criteria": {
+      "decision_authority": {
+        "question": "Does the target group have the power to make the decision required by the statement?",
+        "available": "The group has full or substantial control over the decision",
+        "partially_available": "The group has some but limited control, often constrained by external factors",
+        "not_available": "The group lacks meaningful control over the decision"
+      },
+      "access_to_alternatives": {
+        "question": "Does the target group have access to sustainable alternatives?",
+        "available": "Alternatives are widely accessible to the target group",
+        "partially_available": "Alternatives exist but are limited by geography, availability, or other factors",
+        "not_available": "Alternatives are largely inaccessible or don't exist"
+      },
+      "affordability": {
+        "question": "Can the target group afford to take the required action?",
+        "available": "The action is affordable for most of the target group",
+        "partially_available": "The action is affordable for some but not all",
+        "not_available": "The action is unaffordable for most of the target group"
+      },
+      "infrastructure_availability": {
+        "question": "Does the necessary infrastructure exist to support the required action?",
+        "available": "Infrastructure is widely available and functional",
+        "partially_available": "Infrastructure exists but is limited or inadequate",
+        "not_available": "Infrastructure is largely absent or non-functional"
+      },
+      "enforcement_power": {
+        "question": "Does the target group have the power to enforce or mandate systemic change?",
+        "available": "The group can enforce change through legal, institutional, or economic power",
+        "partially_available": "The group has some influence but limited enforcement capability",
+        "not_available": "The group has no enforcement power"
+      }
+    },
+    "green_lie_indicators": [
+      "Three or more criteria are 'not_available'",
+      "The target group lacks both decision authority and enforcement power",
+      "The statement shifts responsibility from those with power (corporations, governments) to those without (individuals, youth)",
+      "Compliance with the statement is functionally impossible for the majority of the target group",
+      "The statement focuses on individual behavior while ignoring systemic issues"
+    ]
+  }
+}
